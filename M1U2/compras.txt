@@ -3,3 +3,7 @@ galletitas
 harina
 huevos
 palta
+berenjena
+tomate
+calabaza
+cebolla
