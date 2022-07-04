@@ -1,5 +1,9 @@
 h1{
-    margin-left: 53px;
+    margin-left: 50px;
+    text-shadow: 1px 8px 10px rgba(0,0,0,0.6);
+    font-family: 'Splash', cursive;
+    color: white;
+    text-size-adjust: 50px;
 }
 
 body{
@@ -12,6 +16,13 @@ body{
     background-color: rgba(142, 231, 142,0.7);
     margin-bottom: 20px;
     box-sizing: border-box;
+    background: #136f0b;
+background: radial-gradient(circle farthest-corner at center center, #136f0b 0%, #7dd580 80%);
+background: -webkit-radial-gradient(circle farthest-corner at center center, #136f0b 0%, #7dd580 80%);
+background: -moz-radial-gradient(circle farthest-corner at center center, #136f0b 0%, #7dd580 80%);
+border-radius: 49px 49px 49px 49px;
+-webkit-border-radius: 49px 49px 49px 49px;
+-moz-border-radius: 49px 49px 49px 49px;
 }
 
 .resaltados{
@@ -30,4 +41,22 @@ body{
 
 h4{
     color: rgb(7, 78, 7);
+}
+
+.icono{
+    color:green;
+}
+
+.iconocasa{
+    color: rgba(235, 165, 35, 0.664);
+}
+
+.columnas{
+    column-count: 2;
+    column-rule: #136f0b;
+}
+
+.redes{
+    font-family: 'Dancing Script', cursive;
+
 }

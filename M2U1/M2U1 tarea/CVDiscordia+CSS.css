@@ -1,0 +1,33 @@
+h1{
+    margin-left: 53px;
+}
+
+body{
+    margin: 20px;
+}
+
+#rectangulo{
+    width: 350px;
+    height: 42px;
+    background-color: rgba(142, 231, 142,0.7);
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.resaltados{
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#formulario{
+    width: 370px;
+    height: 20px;
+    background-color: rgba(155, 153, 153,0.8);
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+h4{
+    color: rgb(7, 78, 7);
+}
