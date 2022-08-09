@@ -1,0 +1,21 @@
+:root {
+    --color-dark: black;
+    --color-light: white;
+    --color-gold: #c7b8a5;
+}
+
+body {
+    font-family: "oswald", sans-serif;
+    font-weight: 200;
+    background-color: var(--color-dark);
+    color: var(--color-light);
+    letter-spacing: .05rem;
+}
+
+.sideways {
+    writing-mode: vertical-rl;
+    display: block;
+    margin: 3.5rem 0;
+    transform: rotate(-180deg);
+
+}
