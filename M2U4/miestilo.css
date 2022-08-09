@@ -19,3 +19,7 @@ body {
     transform: rotate(-180deg);
 
 }
+
+h1 {
+    color: rgb(252, 206, 2);
+}
